@@ -1,21 +1,5 @@
 # Padding Oracle Attack on Wallet.dat 
 
----
-
-
-* Tutorial: https://youtu.be/0aCfT-kCRlw
-* Tutorial: https://cryptodeeptech.ru/padding-oracle-attack-on-wallet-dat
-
-
----
----
-
-https://colab.research.google.com/drive/1rBVTPyePTMjwXganiwkHfz59vcAtN5Wt
-
----
-
-
-|  | Donation Address |
-| --- | --- |
-| ♥ __BTC__ | 1Lw2gTnMpxRUNBU85Hg4ruTwnpUPKdf3nV |
-| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
+Donation Address
+BTC__ bc1qpqm7e7jm524jwjj4vlzy7vqckgs49tcw4p95ka
+ETH__ 0xb21d83245a8987B4E00d980377aeE9B4bB29Fda2
